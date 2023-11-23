@@ -26,8 +26,8 @@ const Home = () => {
         </div>
         <div className="col-lg-4">
           <img
-            src="path-to-your-profile-image.jpg"
-            alt="Your Name"
+            src="C:\Users\workhorse\Documents\my portfolio\myPortfolio\frontend\public\IMG_7633-01.jpeg"
+            alt="tejasvinu"
             className="img-fluid rounded-circle"
           />
         </div>
