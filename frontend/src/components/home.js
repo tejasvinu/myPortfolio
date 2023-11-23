@@ -26,7 +26,7 @@ const Home = () => {
         </div>
         <div className="col-lg-4">
           <img
-            src="C:\Users\workhorse\Documents\my portfolio\myPortfolio\frontend\public\IMG_7633-01.jpeg"
+            src="https://github.com/tejasvinu/myPortfolio/blob/4ee2f7eb81dc838962e6eefb9afa4362744e3da4/frontend/public/IMG_7633-01.jpeg?raw=true"
             alt="tejasvinu"
             className="img-fluid rounded-circle"
           />
